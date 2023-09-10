@@ -1,6 +1,7 @@
 Пример резюме, реализованного с помощью html и css
 
-![image](https://github.com/N1stDev/cv/assets/72524716/55ace56e-16e5-4413-9d74-3828c7f7a056)
+![Снимок экрана (2)](https://github.com/N1stDev/cv/assets/72524716/bb8d25ca-7e7f-49bd-8ace-d3755533e75d)
+
 
 
 

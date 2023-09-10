@@ -1,0 +1,53 @@
+body {
+    background: #333;
+}
+
+h1 {
+    font: bold 300% Consolas, Monaco, monospace;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2 {
+    font: bold 180% Consolas, Monaco, monospace;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+table {
+    background: #333;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 7px 30px;
+}
+
+th{
+    font: bold 180% Consolas, Monaco, monospace;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+td{
+    font: bold 130% Consolas, Monaco, monospace;
+    color: whitesmoke;
+    text-align: left;
+    padding-left: 60px;
+    vertical-align: top;
+    line-height: 40px;
+}
+
+.contacts{
+    margin-top: 40px;
+    font: bold 130% Consolas, Monaco, monospace;
+    color: whitesmoke;
+    text-align: center;
+}
+
+img{
+    position:absolute;
+    top:10px;
+    right:30px;
+    width:250px;
+    height:160px;
+    align-self: center;
+}
